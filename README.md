@@ -9,9 +9,9 @@
 ## Tecnologies and languages:
 
 - Java 17
-- Quarkus Framework]
-- JUnit tester] 
-- Flyway Migration]
+- Quarkus Framework
+- JUnit tester
+- Flyway Migration
 - Docker
 - Traefik
 - MongoDB
